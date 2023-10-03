@@ -62,8 +62,21 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Projects
 ======
 
-* Currently signed in to 43 different slack teams
+* Saudi Female Mobility and Taxi Shareability Analysis, 2018
+  * Involved in data processing and visualization and implementation of network analysis-based Share-ability algorithm
+* New Pudong: Urban Renewal Based on Big Data, 2018
+  * Involved in building the evaluation system of qualities of street landscapes in Pudong, Shanghai based on Computer Vision
+
+Awards
+======
+
+* The Merit-based Scholarship in Academic Year of 2016-2017 
+  * Shanghai Jiao Tong University, Shanghai, China
+* The Merit-based Scholarship in Academic Year of 2015-2016
+  * Shanghai Jiao Tong University, Shanghai, China
+* 2nd Public Service Advertising Competition: Silver Prize
+  * Shanghai Jiao Tong University, Shanghai, China
