@@ -1,7 +1,6 @@
 ---
 title: "Hydrophobic and Hydrophilic Solid-Fluid Interaction."
 collection: publications
-permalink: https://jinyuan-liu.github.io/projects/2022hydro/ 
 venue: 'ACM Transactions on Graphics (SIGGRAPH Asia 2022)'
 date: 2022-12-01
 excerpt: "<img src='/images/jinyuan2022.jpg' width="500" height="300">"
