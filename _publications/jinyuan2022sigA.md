@@ -1,9 +1,9 @@
 ---
 title: "Hydrophobic and Hydrophilic Solid-Fluid Interaction."
 collection: publications
-permalink: /publication/jinyuan2022sigA
+permalink: https://jinyuan-liu.github.io/projects/2022hydro/ 
 venue: 'ACM Transactions on Graphics (SIGGRAPH Asia 2022)'
 date: 2022-12-01
-paperurl: '<http://academicpages.github.io/files/paper2.pdf>'
+paperurl: 'https://www.cs.dartmouth.edu/~bozhu/papers/hydrophobic_hydrophilic_sfi.pdf'
 authors: 'Jinyuan Liu, Mengdi Wang, Fan Feng, Annie Tang, Qiqin Le, Bo Zhu'
 ---
