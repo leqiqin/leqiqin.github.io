@@ -7,7 +7,7 @@ date: 2023-12-01
 excerpt: "<img src='/images/qiqin2023/qiqin2023.jpg'>"
 authors: 'Qiqin Le, Yitong Deng, Jiamu Bu, Bo Zhu, Tao Du'
 --- 
-![test image size](/images/qiqin2023/qiqin2023.jpg)
+<iframe src="https://youtu.be/RnpLhyPNaFg" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 **Authors:**\
 Qiqin Le, Yitong Deng, Jiamu Bu, Bo Zhu, Tao Du
@@ -20,10 +20,12 @@ Tao Du would like to thank Tsinghua University and Shanghai Qi
 Zhi Institute for supporting this research. Bo Zhu and Yitong Deng
 acknowledges the funding supports from NSF IIS-210673
 
+**Paper:**\
 [Download paper here](https://leqiqin.github.io/files/fem2023.pdf)
 
 *Video link and citation will be available after the paper is camera-ready
 
+![test image size](/images/qiqin2023/qiqin2023.jpg)
 ![test image size](/images/qiqin2023/bat.jpg)
 ![test image size](/images/qiqin2023/lahua.jpg)
 ![test image size](/images/qiqin2023/stairs.jpg)
