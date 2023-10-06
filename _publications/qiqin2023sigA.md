@@ -22,7 +22,7 @@ acknowledges the funding supports from NSF IIS-210673
 
 [Download paper here](https://leqiqin.github.io/files/fem2023.pdf)
 
-*Video link and citation will be available after the paper is camera-ready 
+<font color='red'> * Video link and citation will be available after the paper is camera-ready <font>
 
 ![test image size](/images/qiqin2023/bat.jpg)
 ![test image size](/images/qiqin2023/lahua.jpg)
