@@ -1,6 +1,6 @@
 ---
 title: "New Pudong: Urban Renewal Based on Big Data"
-excerpt: "<img src='/images/portfolio/28.jpg'>"
+excerpt: "<img src='/images/portfolio/21.jpg'>"
 collection: portfolio
 ---
 

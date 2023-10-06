@@ -1,6 +1,6 @@
 ---
 title: "Rhythm of Particles"
-excerpt: "<img src='/images/portfolio/35.jpg'>"
+excerpt: "<img src='/images/portfolio/31.jpg'>"
 collection: portfolio
 ---
 

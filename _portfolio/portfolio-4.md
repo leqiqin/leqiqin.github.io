@@ -1,6 +1,6 @@
 ---
 title: "Robotic Aided Plasma Cutting"
-excerpt: "<img src='/images/portfolio/45.jpg'>"
+excerpt: "<img src='/images/portfolio/41.jpg'>"
 collection: portfolio
 ---
 
