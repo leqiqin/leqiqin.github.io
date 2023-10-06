@@ -9,6 +9,7 @@ authors: 'Jinyuan Liu, Mengdi Wang, Fan Feng, Annie Tang, Qiqin Le, Bo Zhu'
 ---
 
 ![test image size](/images/jinyuan2022.jpg)
+
 **Authors:**\
 Jinyuan Liu, Mengdi Wang, Fan Feng, Annie Tang, Qiqin Le, Bo Zhu
 
