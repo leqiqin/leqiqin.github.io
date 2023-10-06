@@ -31,16 +31,16 @@ Work experience
 Publications
 ======
 
-*Qiqin Le*, Yitong Deng, Jiamu Bu, Bo Zhu, Tao Du.
+* *Qiqin Le*, Yitong Deng, Jiamu Bu, Bo Zhu, Tao Du.
 **Second-Order Finite Elements for Deformable Surfaces.**
 ACM SIGGRAPH Asia 2023 Conference Proceedings
 
-Jinyuan Liu, Mengdi Wang, Fan Feng, Annie Tang, *Qiqin Le*, Bo Zhu. **Hydrophobic and Hydrophilic Solid-Fluid Interaction.** ACM Transactions on Graphics (SIGGRAPH Asia 2022)
+* Jinyuan Liu, Mengdi Wang, Fan Feng, Annie Tang, *Qiqin Le*, Bo Zhu. **Hydrophobic and Hydrophilic Solid-Fluid Interaction.** ACM Transactions on Graphics (SIGGRAPH Asia 2022)
 
 Talks
 ======
 
-ACM SIGGRAPH Asia 2023 Conference Proceeding, Sydney, Australia, Winter 2023 (Pending)
+* ACM SIGGRAPH Asia 2023 Conference Proceeding, Sydney, Australia, Winter 2023 (Pending)
 
 Projects
 ======
