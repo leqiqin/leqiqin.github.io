@@ -7,7 +7,7 @@ date: 2023-12-01
 excerpt: "<img src='/images/qiqin2023/qiqin2023.jpg'>"
 authors: 'Qiqin Le, Yitong Deng, Jiamu Bu, Bo Zhu, Tao Du'
 --- 
-<iframe src="https://youtu.be/RnpLhyPNaFg" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RnpLhyPNaFg?si=eJMl3_KHZF5-TZOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Authors:**\
 Qiqin Le, Yitong Deng, Jiamu Bu, Bo Zhu, Tao Du
