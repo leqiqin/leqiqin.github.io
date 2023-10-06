@@ -7,6 +7,7 @@ date: 2023-12-01
 excerpt: "<img src='/images/qiqin2023/qiqin2023.jpg'>"
 authors: 'Qiqin Le, Yitong Deng, Jiamu Bu, Bo Zhu, Tao Du'
 --- 
+**Video:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RnpLhyPNaFg?si=eJMl3_KHZF5-TZOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Authors:**\
@@ -23,8 +24,10 @@ acknowledges the funding supports from NSF IIS-210673
 **Paper:**\
 [Download paper here](https://leqiqin.github.io/files/fem2023.pdf)
 
-*Video link and citation will be available after the paper is camera-ready
+**Citation:**\
+*Citation will be available after the paper is camera-ready
 
+**Examples:**\
 ![test image size](/images/qiqin2023/qiqin2023.jpg)
 ![test image size](/images/qiqin2023/bat.jpg)
 ![test image size](/images/qiqin2023/lahua.jpg)
