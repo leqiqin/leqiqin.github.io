@@ -21,7 +21,9 @@ We present a computational framework for simulating deformable surfaces with sec
 \
 **Paper:**\
 [Download paper here](https://leqiqin.github.io/files/fem2023.pdf)
-[Download supplementary material here](https://leqiqin.github.io/files/fem2023_supp.pdf)s
+
+**Supplementary Material:**\
+[Download supplementary material here](https://leqiqin.github.io/files/fem2023_supp.pdf)
 
 **Acknowledgements:**\
 Tao Du would like to thank Tsinghua University and Shanghai Qi
