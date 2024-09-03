@@ -7,7 +7,7 @@ date: 2024-12-01
 excerpt: "<img src='/images/qiqin2024/qiqin2024.jpg'>"
 authors: 'Qiqin Le, Jiamu Bu, Yanke Qu, Bo Zhu, Tao Du'
 --- 
-![test image size](/images/sigA2024/teaser.pdf)
+![test image size](/images/sigA2024/teaser.jpg)
 
 **Authors:**\
 Qiqin Le, Jiamu Bu, Yanke Qu, Bo Zhu, Tao Du

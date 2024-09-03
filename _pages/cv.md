@@ -30,12 +30,17 @@ Work experience
   
 Publications
 ======
+* *Qiqin Le*, Jiamu Bu, Yanke Qu, Bo Zhu, Tao Du. 
+**Computational Biomimetics of Winged Seeds.** 
+ACM Transactions on Graphics (SIGGRAPH Asia 2024)
 
 * *Qiqin Le*, Yitong Deng, Jiamu Bu, Bo Zhu, Tao Du.
 **Second-Order Finite Elements for Deformable Surfaces.**
 ACM SIGGRAPH Asia 2023 Conference Proceedings
 
-* Jinyuan Liu, Mengdi Wang, Fan Feng, Annie Tang, *Qiqin Le*, Bo Zhu. **Hydrophobic and Hydrophilic Solid-Fluid Interaction.** ACM Transactions on Graphics (SIGGRAPH Asia 2022)
+* Jinyuan Liu, Mengdi Wang, Fan Feng, Annie Tang, *Qiqin Le*, Bo Zhu. 
+**Hydrophobic and Hydrophilic Solid-Fluid Interaction.** 
+ACM Transactions on Graphics (SIGGRAPH Asia 2022)
 
 Talks
 ======
