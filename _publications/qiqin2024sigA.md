@@ -26,7 +26,7 @@ winged seeds in the design space and reporting their similar aerodynamic
 behaviors in simulation and reality.
 
 **Video:**
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fDUqmkwqBJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fDUqmkwqBJ0?si=9poqR85YHiC1ZkZ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 \
 **Paper:**\
@@ -34,29 +34,30 @@ behaviors in simulation and reality.
 
 
 **Acknowledgements:**\
-Tsinghua authors thank Yuchen Sun, Jingyuan Hu, Professor Li Yi,
-Professor Weixin Huang, and Professor Xitong Liang for their sug-
-gestions on implementation, application, and fabrication of winged
-seed models. Tao Du acknowledges support from Tsinghua Uni-
-versity and Shanghai Qi Zhi Institute. Bo Zhu thanks Side Effects
-Software Inc. (SESI) for providing a Houdini educational license.
+Tsinghua authors thank Yuchen Sun, Jingyuan Hu, Professor Li Yi, Professor Weixin Huang, and Professor Xitong Liang for their suggestions on implementation, application, and fabrication of winged seed models. Tao Du acknowledges support from Tsinghua University and Shanghai Qi Zhi Institute. Bo Zhu thanks Side Effects Software Inc. (SESI) for providing a Houdini educational license.
 
 **Citation:**
 ```
 *Citation will be available after the paper is camera-ready
 ```
+
 **Seed Samples:**\
 ![test image size](/images/sigA2024/samples.png)
-\
+
+
 **Pipeline:**\
 ![test image size](/images/sigA2024/pipeline.png)
-\
+
+
 **Experiments (Simulation):**\
 ![test image size](/images/sigA2024/exp1.png)
-\
+
+
 ![test image size](/images/sigA2024/exp2.png)
-\
+
+
 ![test image size](/images/sigA2024/exp3.png)
-\
+
+
 **Experiments (Fabrication):**\
 ![test image size](/images/sigA2024/fab.png "aaaaaaa")
