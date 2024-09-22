@@ -30,7 +30,7 @@ behaviors in simulation and reality.
 
 \
 **Paper:**\
-[Download paper here](https://leqiqin.github.io/files/seed2024)
+[Download paper here](https://leqiqin.github.io/files/seed2024.pdf)
 
 
 **Acknowledgements:**\
