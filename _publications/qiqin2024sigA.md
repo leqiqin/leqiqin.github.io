@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/seeds2024 
 venue: 'ACM Transactions on Graphics (SIGGRAPH Asia 2024)'
 date: 2024-12-01
-excerpt: "<img src='/images/sigA2024/teaser.jpg'>"
+excerpt: "<img src='/images/sigA2024/teaser.png'>"
 authors: 'Qiqin Le, Jiamu Bu, Yanke Qu, Bo Zhu, Tao Du'
 --- 
 ![test image size](/images/sigA2024/teaser.png)
