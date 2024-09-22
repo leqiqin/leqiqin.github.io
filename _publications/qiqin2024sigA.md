@@ -7,7 +7,7 @@ date: 2024-12-01
 excerpt: "<img src='/images/sigA2024/teaser.jpg'>"
 authors: 'Qiqin Le, Jiamu Bu, Yanke Qu, Bo Zhu, Tao Du'
 --- 
-![test image size](/images/sigA2024/teaser.jpg)
+![test image size](/images/sigA2024/teaser.png)
 
 **Authors:**\
 Qiqin Le, Jiamu Bu, Yanke Qu, Bo Zhu, Tao Du
@@ -25,10 +25,38 @@ the physical fidelity of our pipeline by showcasing paper models of selected
 winged seeds in the design space and reporting their similar aerodynamic
 behaviors in simulation and reality.
 
-<!-- **Examples:**\
-![test image size](/images/qiqin2023/bat.jpg)
-![test image size](/images/qiqin2023/lahua.jpg)
-![test image size](/images/qiqin2023/stairs.jpg)
-![test image size](/images/qiqin2023/tori.jpg)
-![test image size](/images/qiqin2023/art.jpg)
-![test image size](/images/qiqin2023/curtain.jpg) -->
+**Video:**
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fDUqmkwqBJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+\
+**Paper:**\
+[Download paper here](https://leqiqin.github.io/files/seed2024)
+
+
+**Acknowledgements:**\
+Tsinghua authors thank Yuchen Sun, Jingyuan Hu, Professor Li Yi,
+Professor Weixin Huang, and Professor Xitong Liang for their sug-
+gestions on implementation, application, and fabrication of winged
+seed models. Tao Du acknowledges support from Tsinghua Uni-
+versity and Shanghai Qi Zhi Institute. Bo Zhu thanks Side Effects
+Software Inc. (SESI) for providing a Houdini educational license.
+
+**Citation:**
+```
+*Citation will be available after the paper is camera-ready
+```
+**Seed Samples:**\
+![test image size](/images/sigA2024/samples.png)
+\
+**Pipeline:**\
+![test image size](/images/sigA2024/pipeline.png)
+\
+**Experiments (Simulation):**\
+![test image size](/images/sigA2024/exp1.png)
+\
+![test image size](/images/sigA2024/exp2.png)
+\
+![test image size](/images/sigA2024/exp3.png)
+\
+**Experiments (Fabrication):**\
+![test image size](/images/sigA2024/fab.png "aaaaaaa")
