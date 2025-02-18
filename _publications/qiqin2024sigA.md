@@ -39,6 +39,7 @@ behaviors in simulation and reality.
 Tsinghua authors thank Yuchen Sun, Jingyuan Hu, Professor Li Yi, Professor Weixin Huang, and Professor Xitong Liang for their suggestions on implementation, application, and fabrication of winged seed models. Tao Du acknowledges support from Tsinghua University and Shanghai Qi Zhi Institute. Bo Zhu thanks Side Effects Software Inc. (SESI) for providing a Houdini educational license.
 
 **Citation:**
+‘’‘
 @article{10.1145/3687899,
 author = {Le, Qiqin and Bu, Jiamu and Qu, Yanke and Zhu, Bo and Du, Tao},
 title = {Computational Biomimetics of Winged Seeds},
@@ -58,6 +59,7 @@ articleno = {180},
 numpages = {13},
 keywords = {computational design, winged seeds}
 }
+’‘’
 
 **Seed Samples:**\
 ![test image size](/images/sigA2024/samples.png)
