@@ -11,8 +11,6 @@ redirect_from:
 
 Greetings,
 
-I am a researcher at the Shanghai Qi Zhi Institute, collaborating with Prof. Tao Du at Tsinghua University.
-
 My research focus encompasses the intricate domains of computer graphics, physical simulation, and digital geometry.
 I am deeply passionate about exploring the intersections of mathematics, computer science, physics, and art, seeking innovative solutions to complex challenges within these fields.
 
